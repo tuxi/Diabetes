@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  Diabetes
+//
+//  Created by xiaoyuan on 2023/11/10.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+HOST_APP_NAME = Diabetes
+DEVELOPMENT_TEAM = NKW67GFDHM
+BUNDLE_IDENTIFIER_BASE = com.objc.diabetes
